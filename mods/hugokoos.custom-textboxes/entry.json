@@ -1,0 +1,10 @@
+{
+    "mod": {
+        "id": "hugokoos.custom-textboxes",
+        "version": "v1.0.0",
+        "download": {
+            "url": "https://github.com/hkoos15/custom-textboxes/releases/download/v1.0.0/hugokoos.custom-textboxes.geode",
+            "hash": "e24113c6cb55ab9fe4800affd3345e0d8a8f2c1033f15f2497fbd453c06a0174"
+        }
+    }
+}
