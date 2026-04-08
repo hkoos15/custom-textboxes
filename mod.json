@@ -1,0 +1,14 @@
+{
+	"geode": "5.5.3",
+	"gd": {
+		"mac": "2.2081"
+	},
+	"id": "hugokoos.custom-textboxes",
+	"name": "Custom Textboxes",
+	"version": "v1.0.0",
+	"developer": "hugokoos",
+	"description": "Assign custom text, a portrait, and a keybind to GD characters. Press your keybind anywhere in-game to show their dialogue popup.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
